@@ -6,7 +6,7 @@ export const Container = styled.div`
   left: 20%;
 
   @media only screen and (max-width: 480px) {
-    top: 15%;
+    top: 20%;
     left: 30%;
   }
 `;

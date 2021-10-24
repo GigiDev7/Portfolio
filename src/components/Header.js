@@ -33,6 +33,9 @@ const Header = () => {
       </MobileBars>
       {isShown && (
         <MobileDiv isShown={isShown}>
+          <Link onClick={handleClose} /* activeClassName="active" */ to="/">
+            Home
+          </Link>
           <NavLink
             onClick={handleClose}
             activeClassName="active"

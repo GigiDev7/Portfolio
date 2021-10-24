@@ -5,6 +5,7 @@ export const Container = styled.div`
   display: inline-block;
   margin: 80px 40px;
   transition: all 0.3s ease;
+
   :hover {
     transform: scale(1.2);
   }

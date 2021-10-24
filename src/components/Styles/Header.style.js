@@ -19,7 +19,8 @@ export const Div1 = styled.div`
   display: flex;
   align-items: center;
   @media only screen and (max-width: 480px) {
-    margin-left: 20px;
+    //margin-left: 20px;
+    display: none;
   }
   a {
     color: #fff;
@@ -59,7 +60,7 @@ export const Div2 = styled.div`
 
 export const Div3 = styled.div`
   @media only screen and (max-width: 480px) {
-    margin-left: 10px;
+    margin-left: 20px;
   }
   a {
     color: #fff;
@@ -88,7 +89,7 @@ export const MobileBars = styled.div`
 
 export const MobileDiv = styled.div`
   position: absolute;
-  top: 4%;
+  top: 7%;
   left: 15%;
   animation: animateOn 0.5s;
 
