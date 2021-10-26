@@ -11,10 +11,11 @@ const Tech = () => {
         <IoLogoNodejs style={{ fontSize: '1.3rem', color: '#d4c8c8' }} />
         <h2>Front-End</h2>
         <ul>
-          <li>React</li>
           <li>JavaScript,ES6</li>
           <li>ECMAscript</li>
+          <li>React</li>
           <li>Styled Components</li>
+          <li>Material UI</li>
           <li>CSS3</li>
           <li>HTML5</li>
           <li>jQuery</li>
