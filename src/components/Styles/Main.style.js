@@ -31,6 +31,11 @@ export const Paragraph = styled.p`
   width: 500px;
   margin-top: 20px;
 
+  a {
+    text-decoration: none;
+    color: orange;
+  }
+
   @media only screen and (max-width: 480px) {
     font-size: 0.8rem;
     width: 150px;

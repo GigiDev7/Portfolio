@@ -6,9 +6,9 @@ export const Container = styled.div`
   margin: 80px 40px;
   transition: all 0.3s ease;
 
-  :hover {
+  /* :hover {
     transform: scale(1.2);
-  }
+  } */
 `;
 
 export const Div1 = styled.div`
