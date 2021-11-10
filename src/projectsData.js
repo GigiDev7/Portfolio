@@ -5,8 +5,17 @@ import image4 from './img/image4.png';
 import image5 from './img/image5.png';
 import image6 from './img/image6.png';
 import image7 from './img/image7.png';
+import image8 from './img/image8.png';
 
 const projectsData = [
+  {
+    title: 'Jobs-API',
+    description: 'REST API, CRUD, Authentication,Authorization',
+    stack: ['NodeJs', 'ExpressJs', 'MongoDB', 'Mongoose', 'JWT'],
+    code: 'https://github.com/GigiDev7/Jobs-API',
+    source: 'https://jobs-api-node-project.herokuapp.com/',
+    image: image8,
+  },
   {
     title: 'RMDB-Movies',
     description: 'Movie Review Web Site',
