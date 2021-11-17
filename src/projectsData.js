@@ -6,8 +6,26 @@ import image5 from './img/image5.png';
 import image6 from './img/image6.png';
 import image7 from './img/image7.png';
 import image8 from './img/image8.png';
+import image9 from './img/image9.png';
 
 const projectsData = [
+  {
+    title: 'MERN Project',
+    description: 'Authorization,Authentication,CRUD,',
+    stack: [
+      'Node',
+      'Express',
+      'MongoDB',
+      'Mongoose',
+      'JWT',
+      'React',
+      'Redux',
+      'MaterialUI',
+    ],
+    code: 'https://github.com/GigiDev7/mern-project-memories',
+    source: 'https://mern-project-memory.netlify.app/',
+    image: image9,
+  },
   {
     title: 'Jobs-API',
     description: 'REST API, CRUD, Authentication,Authorization',
