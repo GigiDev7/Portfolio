@@ -7,8 +7,17 @@ import image6 from './img/image6.png';
 import image7 from './img/image7.png';
 import image8 from './img/image8.png';
 import image9 from './img/image9.png';
+import image10 from './img/image10.png';
 
 const projectsData = [
+  {
+    title: 'Google Clone',
+    description: 'Search news,info,images like google',
+    stack: ['React', 'React-router', 'Tailwind CSS', 'API'],
+    code: 'https://github.com/GigiDev7/Google-Clone',
+    source: 'https://googlee-clone.netlify.app/search',
+    image: image10,
+  },
   {
     title: 'MERN Project',
     description: 'Authorization,Authentication,CRUD,',
