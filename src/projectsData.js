@@ -13,7 +13,7 @@ const projectsData = [
   {
     title: 'Google Clone',
     description: 'Search news,info,images like google',
-    stack: ['React', 'React-router', 'Tailwind CSS', 'API'],
+    stack: ['React', 'React Context', 'React-router', 'Tailwind CSS', 'API'],
     code: 'https://github.com/GigiDev7/Google-Clone',
     source: 'https://googlee-clone.netlify.app/search',
     image: image10,
