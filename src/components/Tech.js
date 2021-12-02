@@ -21,12 +21,12 @@ const Tech = () => {
             <li>JavaScript,ES6</li>
             <li>ECMAscript</li>
             <li>React Js</li>
+            <li>Apollo GraphQL</li>
             <li>Styled Components</li>
             <li>Material UI</li>
             <li>CSS3</li>
             <li>HTML5</li>
             <li>jQuery</li>
-            <li>SASS</li>
           </ul>
         </motion.div>
       </Wrapper>
@@ -44,6 +44,7 @@ const Tech = () => {
             <li>Mongo DB</li>
             <li>Mongoose</li>
             <li>REST Api</li>
+            <li>GraphQL</li>
             <li>MVC Arcitecture</li>
             <li>SSR</li>
             <li>Pug</li>
