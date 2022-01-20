@@ -8,8 +8,28 @@ import image7 from './img/image7.png';
 import image8 from './img/image8.png';
 import image9 from './img/image9.png';
 import image10 from './img/image10.png';
+import image11 from './img/image11.png';
 
 const projectsData = [
+  {
+    title: 'Jobs-Gi',
+    description:
+      'See jobs, Filter jobs by category or search jobs by query, register and post your own jobs, update, delete',
+    stack: [
+      'React',
+      'Redux',
+      'Redux-thunk',
+      'React-router',
+      'Tailwind CSS',
+      'Node',
+      'Express',
+      'MongoDB',
+      'JWT',
+    ],
+    code: 'https://github.com/GigiDev7?tab=repositories',
+    source: 'https://jobs-gi.netlify.app/',
+    image: image11,
+  },
   {
     title: 'Google Clone',
     description: 'Search news,info,images like google',
