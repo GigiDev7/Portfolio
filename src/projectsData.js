@@ -13,13 +13,10 @@ import image11 from './img/image11.png';
 const projectsData = [
   {
     title: 'Jobs-Gi',
-    description:
-      'See jobs, Filter jobs by category or search jobs by query, register and post your own jobs, update, delete',
+    description: 'Search jobs,register and post your own jobs, update, delete',
     stack: [
       'React',
       'Redux',
-      'Redux-thunk',
-      'React-router',
       'Tailwind CSS',
       'Node',
       'Express',
