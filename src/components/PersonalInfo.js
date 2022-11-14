@@ -29,9 +29,9 @@ const PersonalInfo = () => {
               <h2>2020</h2>
               <p>Started my journey</p>
             </Wrapper1>
-            <IconContainer>
-              <BsArrowRightCircleFill />
-            </IconContainer>
+          
+              <BsArrowRightCircleFill style={{color: 'white', fontSize: '40px', marginRight: '15px'}} />
+          
             <Wrapper1>
               <h2>2021</h2>
               <p>
@@ -39,16 +39,16 @@ const PersonalInfo = () => {
                 technologies, Expanding knowledge
               </p>
             </Wrapper1>
-            <IconContainer>
-              <BsArrowRightCircleFill />
-            </IconContainer>
+          
+              <BsArrowRightCircleFill style={{color: 'white', fontSize: '40px', marginRight: '15px'}} />
+           
             <Wrapper1>
               <h2>02/2022</h2>
               <p>Internship at Exadel</p>
             </Wrapper1>
-            <IconContainer>
-              <BsArrowRightCircleFill />
-            </IconContainer>
+          
+              <BsArrowRightCircleFill style={{color: 'white', fontSize: '40px', marginRight: '15px'}} />
+           
             <Wrapper1>
               <h2>06/2022 to Present</h2>
               <p>Full Stack Developer at Exadel</p>
