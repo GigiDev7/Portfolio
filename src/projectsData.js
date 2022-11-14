@@ -10,11 +10,12 @@ import image9 from './img/image9.png';
 import image10 from './img/image10.png';
 import image11 from './img/image11.png';
 import image12 from './img/image12.avif';
+import image13 from './img/image13.avif';
 
 const projectsData = [
   {
     title: 'Find Pet Sitters',
-    description: 'Register as a sitter or ownse,find your pet sitter, rate, comment sitter, create your sitter profile.',
+    description: 'Register as a sitter or owner,find your pet sitter, rate, comment',
     stack: [
       'React',
       'Redux',
@@ -23,9 +24,24 @@ const projectsData = [
       'Express',
       'MongoDB'
     ],
-    code: '',
+    code: 'https://github.com/GigiDev7?tab=repositories',
     source: 'https://pet-sitter-pr.netlify.app/',
     image: image12
+  },
+  {
+    title: "Airline Reservation",
+    description: 'Find your airline tickets,filter,book',
+    stack: [
+      'Angular',
+      'Tailwind CSS',
+      'Angular Material',
+      'Node',
+      'Express',
+      'MongoDB'
+    ],
+    code: 'https://github.com/GigiDev7?tab=repositories',
+    source: 'https://airline-reservation-pr.netlify.app/',
+    image: image13
   },
   {
     title: 'Jobs-Gi',
