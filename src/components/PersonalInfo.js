@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   Container,
-  IconContainer,
   Div1,
   Wrapper1,
   Div2,
