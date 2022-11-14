@@ -9,8 +9,24 @@ import image8 from './img/image8.png';
 import image9 from './img/image9.png';
 import image10 from './img/image10.png';
 import image11 from './img/image11.png';
+import image12 from './img/image12.avif';
 
 const projectsData = [
+  {
+    title: 'Find Pet Sitters',
+    description: 'Register as a sitter or ownse,find your pet sitter, rate, comment sitter, create your sitter profile.',
+    stack: [
+      'React',
+      'Redux',
+      'Tailwind CSS',
+      'Node',
+      'Express',
+      'MongoDB'
+    ],
+    code: '',
+    source: 'https://pet-sitter-pr.netlify.app/',
+    image: image12
+  },
   {
     title: 'Jobs-Gi',
     description: 'Search jobs,register and post your own jobs, update, delete',
