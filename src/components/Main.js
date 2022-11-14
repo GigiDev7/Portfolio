@@ -22,8 +22,8 @@ const Main = () => {
           exit={{ opacity: 0 }}
           transition={{ duration: 2 }}
         >
-          Hello! I'm Gigi, React,Node Web Developer(MERN Stack).I'm ambitious,
-          hardworking,detail-oriented, motivated and creative individual. I am
+          Hello! I'm Gigi, Full Stack Web Developer(React,Next,Angular,Node,React Native).I'm ambitious,
+          hardworking,detail-oriented, motivated and creative individual.I am
           open-minded and supportive towards other people. Love solving logical
           problems. I'm fast learner, i have willingness to improve constantly.
           You can see my projects {<Link to="/projects">here</Link>}, and for

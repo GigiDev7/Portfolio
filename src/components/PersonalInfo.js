@@ -35,9 +35,23 @@ const PersonalInfo = () => {
             <Wrapper1>
               <h2>2021</h2>
               <p>
-                Coded 20+ projects, Constantly improving, Learning new
+                Coded 10+ projects, Constantly improving, Learning new
                 technologies, Expanding knowledge
               </p>
+            </Wrapper1>
+            <IconContainer>
+              <BsArrowRightCircleFill />
+            </IconContainer>
+            <Wrapper1>
+              <h2>02/2022</h2>
+              <p>Internship at Exadel</p>
+            </Wrapper1>
+            <IconContainer>
+              <BsArrowRightCircleFill />
+            </IconContainer>
+            <Wrapper1>
+              <h2>06/2022 to Present</h2>
+              <p>Full Stack Developer at Exadel</p>
             </Wrapper1>
           </Div1>
         </motion.div>
@@ -56,10 +70,10 @@ const PersonalInfo = () => {
                 <p>4 month Frontend Course in DevNet,Kutaisi</p>
               </Wrapper2>
               <Wrapper2>
-                <p>20 + projects</p>
+                <p>Certificates from different online learning courses.</p>
               </Wrapper2>
               <Wrapper2>
-                <p>Certificates from different online learning courses.</p>
+                <p>10 + projects</p>
               </Wrapper2>
             </Div3>
           </Div2>

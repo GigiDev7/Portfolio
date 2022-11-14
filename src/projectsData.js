@@ -60,6 +60,14 @@ const projectsData = [
     image: image11,
   },
   {
+    title: 'React-Movies',
+    description: 'Search for movies,movie review',
+    stack: ['React', 'JavaScript', 'Styled Components', 'React-Router', 'API'],
+    code: 'https://github.com/GigiDev7/rmdb-movies',
+    source: 'https://rmdb-movies-ge.netlify.app/',
+    image: image1,
+  },
+  {
     title: 'Google Clone',
     description: 'Search news,info,images like google',
     stack: ['React', 'React Context', 'React-router', 'Tailwind CSS', 'API'],
@@ -91,14 +99,6 @@ const projectsData = [
     code: 'https://github.com/GigiDev7/Jobs-API',
     source: 'https://jobs-api-node-project.herokuapp.com/',
     image: image8,
-  },
-  {
-    title: 'RMDB-Movies',
-    description: 'Movie Review Web Site',
-    stack: ['React', 'JavaScript', 'Styled Components', 'React-Router', 'API'],
-    code: 'https://github.com/GigiDev7/rmdb-movies',
-    source: 'https://rmdb-movies-ge.netlify.app/',
-    image: image1,
   },
   {
     title: 'E-commerce',

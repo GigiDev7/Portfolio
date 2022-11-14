@@ -18,15 +18,16 @@ const Tech = () => {
           <IoLogoNodejs style={{ fontSize: '1.3rem', color: '#d4c8c8' }} />
           <h2>Front-End</h2>
           <ul>
-            <li>JavaScript,ES6</li>
-            <li>ECMAscript</li>
+            <li>JavaScript,ES6,EC</li>
             <li>React Js</li>
-            <li>Apollo GraphQL</li>
+            <li>Next Js</li>
+            <li>React Native</li>
+            <li>Angular</li>
             <li>Styled Components</li>
-            <li>Material UI</li>
+            <li>Tailwind CSS</li>
+            <li>Angular Material</li>
             <li>CSS3</li>
             <li>HTML5</li>
-            <li>jQuery</li>
           </ul>
         </motion.div>
       </Wrapper>
@@ -41,13 +42,11 @@ const Tech = () => {
           <ul>
             <li>Node Js</li>
             <li>Express Js</li>
-            <li>Mongo DB</li>
+            <li>MongoDB</li>
             <li>Mongoose</li>
             <li>REST Api</li>
-            <li>GraphQL</li>
             <li>MVC Arcitecture</li>
             <li>SSR</li>
-            <li>Pug</li>
           </ul>
         </motion.div>
       </Wrapper>
@@ -66,7 +65,6 @@ const Tech = () => {
             <li>JSON</li>
             <li>REST Api</li>
             <li>npm</li>
-            <li>React Router</li>
             <li>Framer Motion</li>
           </ul>
         </motion.div>
