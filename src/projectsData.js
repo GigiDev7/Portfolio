@@ -11,25 +11,35 @@ import image10 from './img/image10.png';
 import image11 from './img/image11.png';
 import image12 from './img/image12.avif';
 import image13 from './img/image13.avif';
+import image14 from './img/image14.avif';
 
 const projectsData = [
   {
-    title: 'Find Pet Sitters',
-    description: 'Register as a sitter or owner,find your pet sitter, rate, comment',
+    title: 'Airbnb',
+    description: 'Find a place to visit, book, rate, leave a review',
     stack: [
       'React',
-      'Redux',
       'Tailwind CSS',
       'Node',
       'Express',
-      'MongoDB'
+      'Typescript',
+      'MongoDB',
     ],
-    code: 'https://github.com/GigiDev7?tab=repositories',
-    source: 'https://pet-sitter-pr.netlify.app/',
-    image: image12
+    code: 'https://github.com/GigiDev7/airbnb-frontend',
+    source: 'https://airbnbg.netlify.app/',
+    image: image14,
   },
   {
-    title: "Airline Reservation",
+    title: 'Find Pet Sitters',
+    description:
+      'Register as a sitter or owner,find your pet sitter, rate, comment',
+    stack: ['React', 'Redux', 'Tailwind CSS', 'Node', 'Express', 'MongoDB'],
+    code: 'https://github.com/GigiDev7?tab=repositories',
+    source: 'https://pet-sitter-pr.netlify.app/',
+    image: image12,
+  },
+  {
+    title: 'Airline Reservation',
     description: 'Find your airline tickets,filter,book',
     stack: [
       'Angular',
@@ -37,11 +47,11 @@ const projectsData = [
       'Angular Material',
       'Node',
       'Express',
-      'MongoDB'
+      'MongoDB',
     ],
     code: 'https://github.com/GigiDev7?tab=repositories',
     source: 'https://airline-reservation-pr.netlify.app/',
-    image: image13
+    image: image13,
   },
   {
     title: 'Jobs-Gi',
