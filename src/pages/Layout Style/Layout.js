@@ -1,13 +1,9 @@
 import styled from 'styled-components';
 
 export const Layout = styled.div`
-  margin-left: 15%;
-
-  @media only screen and (max-width: 768px) {
-    margin-left: 25%;
-  }
-
-  @media only screen and (max-width: 480px) {
-    margin-top: 65px;
-  }
+  display: flex;
+  width: 70%;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: center;
 `;

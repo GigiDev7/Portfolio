@@ -12,8 +12,27 @@ import image11 from './img/image11.png';
 import image12 from './img/image12.avif';
 import image13 from './img/image13.avif';
 import image14 from './img/image14.avif';
+import image15 from './img/image15.avif';
 
 const projectsData = [
+  {
+    title: 'Online Realtime Poker Game',
+    description:
+      'Play poker 1vs1 with friend online realtime, register or login as a guest, create table,send id to friend and enjoy game(At first it may seem laggy because hosting server goes to sleep mode after 30min of innactivity)',
+    stack: [
+      'React',
+      'Tailwind CSS',
+      'Node',
+      'Express',
+      'Typescript',
+      'MongoDB',
+      'WebSockets',
+      'SocketIO',
+    ],
+    code: 'https://github.com/GigiDev7/poker-back | https://github.com/GigiDev7/poker-front',
+    source: 'https://react-wsop.netlify.app/',
+    image: image15,
+  },
   {
     title: 'Airbnb',
     description: 'Find a place to visit, book, rate, leave a review',
