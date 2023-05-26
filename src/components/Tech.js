@@ -25,6 +25,7 @@ const Tech = () => {
             <li>Angular</li>
             <li>Styled Components</li>
             <li>Tailwind CSS</li>
+            <li>Ant Design</li>
             <li>Angular Material</li>
             <li>CSS3</li>
             <li>HTML5</li>
@@ -42,11 +43,15 @@ const Tech = () => {
           <ul>
             <li>Node Js</li>
             <li>Express Js</li>
+            <li>Nest.js</li>
             <li>MongoDB</li>
             <li>Mongoose</li>
+            <li>SQL</li>
             <li>REST Api</li>
             <li>MVC Arcitecture</li>
             <li>SSR</li>
+            <li>Python</li>
+            <li>PHP-Basics</li>
           </ul>
         </motion.div>
       </Wrapper>
@@ -61,6 +66,8 @@ const Tech = () => {
           <ul>
             <li>Redux</li>
             <li>Redux Toolkit</li>
+            <li>Zustand</li>
+            <li>WebSockets-SocketIO</li>
             <li>Git,Github</li>
             <li>JSON</li>
             <li>REST Api</li>
