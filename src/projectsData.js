@@ -13,8 +13,18 @@ import image12 from './img/image12.avif';
 import image13 from './img/image13.avif';
 import image14 from './img/image14.avif';
 import image15 from './img/image15.avif';
+import image16 from './img/image16.avif';
 
 const projectsData = [
+  {
+    title: 'File and folder management system',
+    description:
+      'Create folders, add files, have your own file management online',
+    stack: ['Angular', 'Express', 'Node', 'MongoDB'],
+    code: 'https://github.com/GigiDev7/file-management-back',
+    source: 'https://fs-front.netlify.app',
+    image: image16,
+  },
   {
     title: 'Online Realtime Poker Game',
     description:
@@ -29,7 +39,7 @@ const projectsData = [
       'WebSockets',
       'SocketIO',
     ],
-    code: 'https://github.com/GigiDev7/poker-back | https://github.com/GigiDev7/poker-front',
+    code: 'https://github.com/GigiDev7/poker-back',
     source: 'https://react-wsop.netlify.app/',
     image: image15,
   },
